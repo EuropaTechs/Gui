@@ -84,7 +84,7 @@ public class Core {
  }
  });
  
- //The JFrame uses the BorderLayout layout manager. TEST!!
+ //The JFrame uses the BorderLayout layout manager.
  //Put the two JPanels and JButton in different areas.
  guiFrame.add(comboPanel, BorderLayout.NORTH);
  guiFrame.add(listPanel, BorderLayout.CENTER);
